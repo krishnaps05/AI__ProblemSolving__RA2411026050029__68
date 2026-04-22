@@ -50,11 +50,14 @@ Execution Steps
   
 Sample Output 
 
+
 ![Dashboard](Dashboard.png)
 
-![Emergency Analysis](Emergency_Analysis.png)
 
-![Route Visualization](Route_Visualization.png)
+![Route Visualization](Route%20Visualization.png)
+
+
+![Emergency Analysis](Emergency%20Analysis.png)
 
 
 
