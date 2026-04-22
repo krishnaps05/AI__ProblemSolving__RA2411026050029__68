@@ -52,9 +52,9 @@ Sample Output
 
 ![Dashboard](Dashboard.png)
 
-![Emergency Analysis](Emergency Analysis.png)
+![Emergency Analysis](Emergency_Analysis.png)
 
-![Route Visualization](Route Visualization.png)
+![Route Visualization](Route_Visualization.png)
 
 
 
