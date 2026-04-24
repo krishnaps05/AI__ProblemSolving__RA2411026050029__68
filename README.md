@@ -4,7 +4,7 @@ AI Problem Solving Assignment
          Krishna Priya P S (Reg No: RA2411026050029)
          A S Lekshmi Priya (Reg No: RA2411026050068)
 
-PROBLEM 20 Smart Emergency Response and Decision Support System
+PROBLEM 20 : Smart Emergency Response and Decision Support System
 
 Problem Description:
 
@@ -67,7 +67,7 @@ Sample Output
 
 ![Emergency Analysis](Emergency%20Analysis.png)
 
-PROBLEM 9 Drone Delivery Path Finder System
+PROBLEM 9 : Drone Delivery Path Finder System
 
 Problem Description
 
