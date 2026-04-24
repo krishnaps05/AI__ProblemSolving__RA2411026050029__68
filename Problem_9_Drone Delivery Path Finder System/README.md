@@ -46,7 +46,9 @@ Comparison between BFS and DFS performance
 
 Sample Output
 
-![BFS](assets/screenshots/BFS.png)
+### BFS Output
+![BFS](BFS.png)
 
-![DFS](assets/screenshots/DFS.png)
+### DFS Output
+![DFS](DFS.png)
 
