@@ -59,13 +59,13 @@ Execution Steps
 Sample Output 
 
 
-![Dashboard](Dashboard.png)
+![Dashboard](Images/Dashboard.png)
 
 
-![Route Visualization](Route%20Visualization.png)
+![Route Visualization](Images/Route%20Visualization.png)
 
 
-![Emergency Analysis](Emergency%20Analysis.png)
+![Emergency Analysis](Images/Emergency%20Analysis.png)
 
 PROBLEM 9 : Drone Delivery Path Finder System
 
