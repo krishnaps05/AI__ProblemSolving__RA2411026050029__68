@@ -118,7 +118,7 @@ python main.py
 Sample Output
 
 ### BFS Output
-![BFS](BFS.png)
+![BFS](images/BFS.png)
 
 ### DFS Output
 ![DFS](DFS.png)
