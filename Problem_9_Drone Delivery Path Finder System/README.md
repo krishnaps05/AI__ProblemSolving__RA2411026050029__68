@@ -1,4 +1,4 @@
-📖 Problem Description
+Problem Description
 
 This project focuses on solving a grid-based pathfinding problem in the context of a drone delivery system. The environment is modeled as a two-dimensional matrix where each cell represents either a traversable space or a restricted zone:
 
@@ -26,23 +26,23 @@ Useful for exploring all possible paths
 
 Execution Steps
 
-Download or clone the repository from GitHub.
-Open the project folder containing the source files.
-Run the project by executing the main.py file:
+1.Download or clone the repository from GitHub.
+2.Open the project folder containing the source files.
+3.Run the project by executing the main.py file:
 python main.py
-Create or load a grid environment for the simulation.
-Enter the required inputs such as:
-Start position
-Goal position
-Obstacles (optional)
-Click the “Run BFS” or “Run DFS” button to execute the algorithms.
-The system generates outputs including:
-Path from start to goal
-Path length
-Number of nodes explored
-Execution time
-Visual grid representation
-Comparison between BFS and DFS performance
+4.Create or load a grid environment for the simulation.
+5.Enter the required inputs such as:
+  Start position
+  Goal position
+  Obstacles (optional)
+6.Click the “Run BFS” or “Run DFS” button to execute the algorithms.
+7.The system generates outputs including:
+  Path from start to goal
+  Path length
+  Number of nodes explored
+  Execution time
+  Visual grid representation
+  Comparison between BFS and DFS performance
 
 Sample Output
 
